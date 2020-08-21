@@ -1,8 +1,8 @@
 import React from 'react';
-import s from './s.module.scss';
+import s from './footer.module.scss';
 import { Link } from 'react-router-dom';
 import { Button } from '../button/button';
-import './footer.css';
+import './footter.css';
 function footer() {
   return (
     <div className={s.footer__container}>

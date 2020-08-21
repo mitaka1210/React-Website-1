@@ -1,5 +1,5 @@
 import React from 'react';
-import CardItem from './carditem';
+import CardItem from './Pic';
 import s from './card.module.scss';
 function Cards() {
   return (

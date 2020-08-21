@@ -1,31 +1,54 @@
-# Read Me
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+</style>
 
-<a href="https://mitaka1210.github.io/React-Website-1/">website-1 </a>
+<h1 style="text-align:center; font-family: 'Lobster', cursive; ">Read Me</h1>
 
----
+<h1 style= "color:white; font-size: 1.3em;" >This is my first project with React JS. When i start learned and practice.<h1>
 
-### Table of Contents
+### Menu
 
-You're sections headers will be used to reference location of destination.
-
-- [Description](#description)
+- [Website](#website)
+- [Technologies](#Technologies)
+- [Code](#Code)
+- [Available Scripts](#Available-Scripts)
 - [License](#license)
-- [Author Info](#author-info)
-- [Available Scripts](#Available Scripts)
+- [Author-Info](#About-info)
 
 ---
 
-## Description
+## Website :
 
-This is first website who i make it with ReactJS.White i studied (useState,Hooks,useEffect).
+<div>
+<p style="font-size: 1.3em;">
+If you want visited website .
+</p>
+<button style="background-color:white; cursor: pointer; margin: 10px; border: 3px solid #6603fc; border-radius: 20px; height: 50px;">
+<a href="https://mitaka1210.github.io/React-Website-1/" style="color: red;"> React Website-1</a></button>
+</div>
 
-#### Technologies
+[Back To The Top](#Menu)
 
-- Technology: HTML
-- Technology: SCSS/CSS and react module.
-- Technology: React JS
+#### Technologies :
 
-[Back To The Top](#read-me-template)
+<div style="text-align: center; margin-bottom: 15px">
+<img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
+<img src="https://img.icons8.com/color/50/000000/javascript.png"/>
+<img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="./images/figma_logo_icon_147289.png" style="width: 45px; padding-bottom: 4px;"/>
+<img src="./images/file_type_sass_icon_130182.png" style="width:55px"></img>
+</div>
+
+[Back To The Top](#Menu)
+
+### Code :
+
+<button style=" cursor: pointer;width: 90px; height: 30px; "> <a href="https://github.com/mitaka1210/React-Website-1">Check Code</a></button>
+
+[Back To The Top](#Menu)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -58,6 +81,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `yarn eject`
 
+[Back To The Top](#Menu)
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
@@ -66,9 +90,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+[Back To The Top](#Menu)
 
 ---
 
@@ -96,17 +118,28 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Menu)
 
 ---
 
-## Author Info
+### About info
 
-- Twitter - [eng. Dimitar Dimitrov](https://twitter.com/dimitar1201)
-- Website - [eng. Dimitar Dimitrov](https://mitaka1210.github.io/Portfolio-ENG/)
-- facebook - [eng. Dimitar Dimitrov](https://www.facebook.com/mitaka1210)
-- Linkedin - [eng. Dimitar Dimitrov](https://www.linkedin.com/in/dimitar-dimitrov1201/)
-- e-mail - [eng. Dimitar Dimitrov] dimitar_dimitrov12@mail.bg
-- e-mail - [eng. Dimitar Dimitrov] dimitard185@gmail.com
+<div class="social" style="display: inline;">
+		<ul style="display: flex;
+		justify-content: space-evenly;">
+			<li style=" list-style:none"><a href="https://www.facebook.com/mitaka1210">
+				<img src="./images/social/facebook.png" style="width: 55px;"/></a>
+			</li>
+			<li style=" list-style:none"><a href=https://twitter.com/dimitar1201">
+    			<img src="./images/social/twitter.png" style="width: 55px"/></a>
+    		</li>
+			<li style=" list-style:none"><a href="https://www.linkedin.com/in/dimitar-dimitrov-a537a2162/">
+    			<img src="./images/social/linkedin.png" style="width: 55px"/></a>
+    		</li>
+			<li style=" list-style:none"> <a href="https://mitaka1210.github.io/Portfolio-ENG">
+    			<img src="./images/social/Website.png" style="width: 58px;"/></a>
+    		</li>
+    	</ul>
+    </div>
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Menu)
