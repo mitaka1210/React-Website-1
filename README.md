@@ -122,12 +122,8 @@ SOFTWARE.
 
 ### About info
 
-<div class="social" style="display: inline;">
-		<ul style="display: flex;
-		justify-content: space-evenly;">
-			<li style=" list-style:none"><a href="https://www.facebook.com/mitaka1210">
+<a href="https://www.facebook.com/mitaka1210">
 				<img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-button-blue-icon.png"/></a>
-			</li>
 			<li style=" list-style:none"><a href=https://twitter.com/dimitar1201">
     			<img src="./images/social/twitter.png" style="width: 55px"/></a>
     		</li>
@@ -137,7 +133,5 @@ SOFTWARE.
 			<li style=" list-style:none"> <a href="https://mitaka1210.github.io/Portfolio-ENG">
     			<img src="./images/social/Website.png" style="width: 58px;"/></a>
     		</li>
-    	</ul>
-    </div>
 
 [Back To The Top](#Menu)
