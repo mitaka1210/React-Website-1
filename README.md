@@ -37,8 +37,10 @@ If you want visited website .
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="./images/figma_logo_icon_147289.png" style="width: 20px; padding-bottom: 4px;"/>
-<img src="./images/file_type_sass_icon_130182.png" style="width:25px"></img>
+<img src="./images/figma_logo_icon_147289.png" style="    width: 48px;
+    height: 48px;padding-bottom: 4px;"/>
+<img src="./images/file_type_sass_icon_130182.png" style="    width: 48px;
+    height: 48px;"></img>
 </div>
 
 [Back To The Top](#Menu)
