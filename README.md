@@ -3,7 +3,7 @@
 <div>
 
 <h1 style="text-align:center; font-family: 'Lobster', cursive; ">Read Me</h1>
-</div>
+
 
 <h1 style= "color:white; font-size: 1.3em;" >This is my first project with React JS. When i start learned and practice.<h1>
 
@@ -11,7 +11,6 @@
 
 - [Website](#Website)
 - [Technologies](#Technologies)
-- [Code](#Code)
 - [Available Scripts](#Available-Scripts)
 - [License](#license)
 - [Author-Info](#About-info)
@@ -21,12 +20,12 @@
 ## Website
 
 <div>
-<p style="font-size: 1.3em;">
+<p style="font-size: 1.3em; color: green;">
 If you want visited website .
 </p>
-<button style="background-color:white; cursor: pointer; margin: 10px; border: 3px solid #6603fc; border-radius: 20px; height: 50px;">
-<a href="https://mitaka1210.github.io/React-Website-1/" style="color: red;"> React Website-1</a></button>
-</div>
+
+<a href="https://mitaka1210.github.io/React-Website-1/" style="color: red;"> React Website-1</a>
+
 [Back To The Top](#Menu)
 
 
@@ -46,11 +45,9 @@ If you want visited website .
 
 [Back To The Top](#Menu)
 
-### Code
 
-<a style="color: red;">Check code</a>
 
-[Back To The Top](#Menu)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
