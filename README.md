@@ -14,7 +14,7 @@
 - [Code](#Code)
 - [Available Scripts](#Available-Scripts)
 - [License](#license)
-- [Author-Info](#** About-info **)
+- [Author-Info](#About-info)
 
 ---
 
