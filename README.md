@@ -22,7 +22,7 @@
 <h1 style="color: green;">
 <h1 style="color: red;">If you want visited my WORK .</h1>
 
-<a href="https://keen-volhard-2b8ec9.netlify.app/" style="color: red;"> React Website-1</a>
+Click here ==> <a href="https://keen-volhard-2b8ec9.netlify.app/" style="color: red;"> React Website-1</a>
 
 
 [Back To The Top](#Menu)
@@ -41,7 +41,6 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
 </div>
-
 [Back To The Top](#Menu)
 
 
@@ -120,7 +119,17 @@ SOFTWARE.
 
 ## 									About-info
 
+My name is Dimitar Dimitrov and i specialization in Web design. For now i am focused on Frond end. 
+
+From one month i study hard React JS and work оn little project with to practice. Everything i learn alone From internet. For more information about me visit my website.
+
+
+
 <a href="https://www.facebook.com/mitaka1210"><img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-button-blue-icon.png"/></a><a href="https://twitter.com/dimitar1201"><img src="https://icons.iconarchive.com/icons/emey87/social-button/64/twitter-icon.png"/></a><a href="https://www.linkedin.com/in/dimitar-dimitrov-a537a2162/"><img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png"/></a><a href="https://mitaka1210.github.io/Portfolio-ENG"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/64/Website-icon.png"/></a>
+
+
+
+
 
 [Back To The Top](#Menu)
 
