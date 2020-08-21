@@ -9,9 +9,9 @@
 
 ### Menu
 
-- [Website](#website)
-- [Technologies](#Technologies)
-- [Code](#Code)
+- [Website](#Website :)
+- [Technologies](#Technologies :)
+- [Code](#Code :)
 - [Available Scripts](#Available-Scripts)
 - [License](#license)
 - [Author-Info](#About-info)
@@ -44,7 +44,7 @@ If you want visited website .
 
 ### Code :
 
-<button style=" cursor: pointer; border: 2px solid #6603ff; background: white;color: red; "><a style="color: red;">Check code</a></button>
+<a style="color: red;">Check code</a>
 
 [Back To The Top](#Menu)
 
@@ -118,7 +118,7 @@ SOFTWARE.
 
 [Back To The Top](#Menu)
 
-## 									** About-info **
+## 									About-info
 
 <a href="https://www.facebook.com/mitaka1210"><img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-button-blue-icon.png"/></a><a href="https://twitter.com/dimitar1201"><img src="https://icons.iconarchive.com/icons/emey87/social-button/64/twitter-icon.png"/></a><a href="https://www.linkedin.com/in/dimitar-dimitrov-a537a2162/"><img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png"/></a><a href="https://mitaka1210.github.io/Portfolio-ENG"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/64/Website-icon.png"/></a>
 
