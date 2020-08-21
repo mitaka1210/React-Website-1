@@ -9,16 +9,16 @@
 
 ### Menu
 
-- [Website](#Website :)
-- [Technologies](#Technologies :)
-- [Code](#Code :)
+- [Website](#Website)
+- [Technologies](#Technologies)
+- [Code](#Code)
 - [Available Scripts](#Available-Scripts)
 - [License](#license)
 - [Author-Info](#About-info)
 
 ---
 
-## Website :
+## Website
 
 <div>
 <p style="font-size: 1.3em;">
@@ -29,7 +29,11 @@ If you want visited website .
 </div>
 [Back To The Top](#Menu)
 
-#### Technologies :
+
+
+
+
+#### Technologies
 
 <div style="text-align: center; margin-bottom: 15px">
 <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
@@ -42,7 +46,7 @@ If you want visited website .
 
 [Back To The Top](#Menu)
 
-### Code :
+### Code
 
 <a style="color: red;">Check code</a>
 
