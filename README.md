@@ -37,17 +37,14 @@ If you want visited website .
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="./images/figma_logo_icon_147289.png" style="    width: 48px;
-    height: 48px;padding-bottom: 4px;"/>
-<img src="./images/file_type_sass_icon_130182.png" style="    width: 48px;
-    height: 48px;"></img>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>
 </div>
 
 [Back To The Top](#Menu)
 
 ### Code :
 
-<button style=" cursor: pointer;width: 90px; height: 30px; "> <a href="https://github.com/mitaka1210/React-Website-1">Check Code</a></button>
+<button style=" cursor: pointer;width: 90px; height: 30px; backgound-color: red; "> <a style="backgound: red;" href="https://github.com/mitaka1210/React-Website-1">Check Code</a></button>
 
 [Back To The Top](#Menu)
 
@@ -129,7 +126,7 @@ SOFTWARE.
 		<ul style="display: flex;
 		justify-content: space-evenly;">
 			<li style=" list-style:none"><a href="https://www.facebook.com/mitaka1210">
-				<img src="./images/social/facebook.png" style="width: 55px;"/></a>
+				<img src="./images/social/facebook.png" style="max-width: 55px;"/></a>
 			</li>
 			<li style=" list-style:none"><a href=https://twitter.com/dimitar1201">
     			<img src="./images/social/twitter.png" style="width: 55px"/></a>
