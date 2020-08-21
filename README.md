@@ -125,9 +125,7 @@ SOFTWARE.
 <div class="social" style="display: inline;">
 		<ul style="display: flex;
 		justify-content: space-evenly;">
-			<li style=" list-style:none"><a href="https://www.facebook.com/mitaka1210">
-				<img src="./images/social/facebook.png" style="max-width: 55px;" view="48px 48px"/></a>
-			</li>
+			
 			<li style=" list-style:none"><a href=https://twitter.com/dimitar1201">
     			<img src="./images/social/twitter.png" style="width: 55px"/></a>
     		</li>
