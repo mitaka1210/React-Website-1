@@ -34,7 +34,6 @@ If you want visited website .
 <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
 <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
 <img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>
-
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
@@ -44,7 +43,7 @@ If you want visited website .
 
 ### Code :
 
-<button style=" cursor: pointer;width: 90px; height: 30px; backgound-color: red; "> <a style="backgound: red;" href="https://github.com/mitaka1210/React-Website-1">Check Code</a></button>
+<button style=" cursor: pointer; border: 2px solid #6603ff; background: white;color: red; ">Check code</button>
 
 [Back To The Top](#Menu)
 
@@ -122,13 +121,12 @@ SOFTWARE.
 
 ### About info
 
-<a href="https://www.facebook.com/mitaka1210">
-				<img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-button-blue-icon.png"/></a>
-<a href=https://twitter.com/dimitar1201">
-    			<img src="https://icons.iconarchive.com/icons/emey87/social-button/64/twitter-icon.png" style="width: 55px"/></a>
+<a href="https://www.facebook.com/mitaka1210">	<img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-button-blue-icon.png"/></a>
+   <img src="https://icons.iconarchive.com/icons/emey87/social-button/64/twitter-icon.png" style="width: 55px"/>
 <a href="https://www.linkedin.com/in/dimitar-dimitrov-a537a2162/">
     			<img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png"/></a>
 <a href="https://mitaka1210.github.io/Portfolio-ENG">
     			<img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/64/Website-icon.png"/></a>
 
 [Back To The Top](#Menu)
+
