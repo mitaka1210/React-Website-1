@@ -121,12 +121,14 @@ SOFTWARE.
 
 ### About info
 
-<a href="https://www.facebook.com/mitaka1210">	<img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-button-blue-icon.png"/></a>
-<a href=https://twitter.com/dimitar1201">      <img src="https://icons.iconarchive.com/icons/emey87/social-button/64/twitter-icon.png"/></a>
-<a href="https://www.linkedin.com/in/dimitar-dimitrov-a537a2162/">
-    			<img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png"/></a>
-<a href="https://mitaka1210.github.io/Portfolio-ENG">
-    			<img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/64/Website-icon.png"/></a>
+<a href="https://www.facebook.com/mitaka1210"><img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-button-blue-icon.png"/></a>
+
+<a href="https://twitter.com/dimitar1201"><img src="https://icons.iconarchive.com/icons/emey87/social-button/64/twitter-icon.png"/></a>
+
+<a href="https://www.linkedin.com/in/dimitar-dimitrov-a537a2162/"><img src="https://icons.iconarchive.com/icons/martz90/circle/64/linkedin-icon.png"/></a>
+
+<a href="https://mitaka1210.github.io/Portfolio-ENG"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/64/Website-icon.png"/></a>
 
 [Back To The Top](#Menu)
 
+>
